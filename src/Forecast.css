@@ -1,0 +1,23 @@
+.forecast {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  line-height: 2;
+  padding: 0% 5% 10% 5%;
+  font-size: 20px;
+}
+
+#forecast i {
+  font-size: 40px;
+}
+
+.row {
+  margin: 0 auto;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #4a7ea8;
+}

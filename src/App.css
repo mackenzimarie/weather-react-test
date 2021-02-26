@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: block;
+  max-width: 500px;
+  margin: 0 auto;
+  border: none;
+  border-radius: 10px;
+  padding: 0;
+  font-family: "Baloo Thambi 2", Arial, Helvetica, sans-serif;
+  color: white;
+  text-shadow: 1px 1px rgb(0, 0, 0, 0.5);
+}
+
+.container {
+  background-image: url("./backgrounds/rain.jpeg");
+  display: block;
+  border-radius: 10px;
+  padding-top: 10px;
+}
