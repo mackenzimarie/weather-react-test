@@ -9,13 +9,13 @@ export default function Results() {
       <div class="details">
         <p>
           <span id="temperature">40</span>
-          <a href="#" class="units active" id="fahrenheit">
+          <span href="#" class="units active" id="fahrenheit">
             ˚F
-          </a>
+          </span>
           <span class="units seperator">|</span>
-          <a href="#" id="celcius" class="units">
+          <span href="#" id="celcius" class="units">
             ˚C
-          </a>
+          </span>
         </p>
         <div class="row">
           <i id="icon" class="col-6 fas fa-cloud"></i>
