@@ -17,6 +17,13 @@ export default function App() {
         <CurrentLocation />
         <br />
       </div>
+      <a
+        href="https://github.com/mackenzimarie/weather-react-test"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <span id="author">Coded by Mackenzi Kingdon</span>
+      </a>
     </div>
   );
 }
